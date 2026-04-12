@@ -5,5 +5,7 @@ class Main {
         System.out.println("Второй доп. коммит в main");
         System.out.println("Третий доп. коммит в main");
         System.out.println("Четвертый доп. коммит в main");
+
+        System.out.println("Изменение в main перед слиянием");
     }
 }
